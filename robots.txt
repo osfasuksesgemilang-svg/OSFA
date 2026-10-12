@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osfa.biz.id/sitemap.xml
